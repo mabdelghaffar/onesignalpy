@@ -1,12 +1,12 @@
 # onesignal-python
 Python client for OneSignal push notification service
 
-[![Build Status](https://travis-ci.org/joaobarbosa/onesignal-python.png?branch=master)](https://travis-ci.org/joaobarbosa/onesignal-python)
+[![Build Status](https://travis-ci.org/joaobarbosa/onesignal-python.png?branch=master)](https://travis-ci.org/mabdelghaffar/onesignalpy)
 
 ## Installing
 
-- ```pip install onesignal-python```
-- ```pip install git+https://github.com/joaobarbosa/onesignal-python.git```
+- ```pip install onesignalpy```
+- ```pip install git+https://https://github.com/mabdelghaffar/onesignalpy.git```
 
 ## Usage
 
