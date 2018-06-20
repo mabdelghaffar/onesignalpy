@@ -1,4 +1,4 @@
-# onesignal-python
+# onesignalpy
 Python client for OneSignal push notification service
 
 [![Build Status](https://travis-ci.org/joaobarbosa/onesignal-python.png?branch=master)](https://travis-ci.org/mabdelghaffar/onesignalpy)
