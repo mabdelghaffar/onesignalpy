@@ -17,7 +17,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     # Project
-    name='onesignal-python',
+    name='onesignalpy',
     version=str(__version__),
     description='Python client for OneSignal push notification service',
     long_description=long_description,
